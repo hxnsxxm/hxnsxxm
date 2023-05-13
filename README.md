@@ -1,5 +1,5 @@
 <div align="center">
-👋 공부중인 백엔드 신입 개발자입니다.
+👋 공부중인 백엔드 개발자 지망생입니다.
 <br><br>
   <h3>📩 Email 📩</h3>
   <a href="mailto:hansaemj20@gmail.com" target="_blank"><img src="https://img.shields.io/badge/hansaemj20@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
