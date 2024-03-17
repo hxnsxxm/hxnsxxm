@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 </div>
+
+<br>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hxnsxxm)](https://solved.ac/hxnsxxm)
