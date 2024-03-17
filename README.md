@@ -32,4 +32,4 @@ Here are some ideas to get you started:
 </div>
 
 <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hxnsxxm)](https://solved.ac/hxnsxxm)
+![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=hxnsxxm)(https://solved.ac/hxnsxxm)
